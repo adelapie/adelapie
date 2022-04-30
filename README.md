@@ -1,4 +1,6 @@
-### Antonio de la Piedra
+### Antonio de la Piedra ✨
+- 🔭 Cryptographic Engineering
+
 
 <!--
 **adelapie/adelapie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
