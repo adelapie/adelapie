@@ -1,10 +1,14 @@
 ### Antonio de la Piedra ✨
 - ⚡ Cryptographic Engineering at KS
 - 🔭 Blog:
-  * [Introducing ABE Squared: A framework for comparing the efficiency of ABE schemes](https://research.kudelskisecurity.com/2022/09/19/introducing-abe-squared-a-framework-for-comparing-the-efficiency-of-abe-schemes/)
+  * [Introducing ABE Squared: A framework for comparing the efficiency of ABE schemes, with Greg Alpar and Marloes Venema](https://research.kudelskisecurity.com/2022/09/19/introducing-abe-squared-a-framework-for-comparing-the-efficiency-of-abe-schemes/)
   * [Implementing zk-focused hash schemes](https://research.kudelskisecurity.com/2022/07/07/implementing-zk-focused-hash-schemes/) 
   * [Implementing a zk-focused authenticated-encryption scheme](https://research.kudelskisecurity.com/2022/05/02/implementing-a-zk-focused-authenticated-encryption-scheme/)
-  * [Practical attacks against attribute-based encryption](https://research.kudelskisecurity.com/2021/11/12/practical-attacks-against-attribute-based-encryption/)
+  * [Practical attacks against attribute-based encryption, with Marloes Venema](https://research.kudelskisecurity.com/2021/11/12/practical-attacks-against-attribute-based-encryption/)
+ - 📫 Implementations:
+   * [ABE Squared, with Marloes Venema and Greg Alpar](https://github.com/abecryptools/abe_squared)
+   * [Cryptanalytic attacks against ABE schemes, with Marloes Venema](https://github.com/kudelskisecurity/abeattacks)
+   * [SHA-3](https://github.com/adelapie/SHA-3-MIPS64) and [NewHope](https://github.com/adelapie/NEW-HOPE-MIPS64) for MIPS64
 
 
 <!--
