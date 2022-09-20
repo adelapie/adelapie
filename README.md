@@ -1,5 +1,10 @@
 ### Antonio de la Piedra ✨
-- 🔭 Cryptographic Engineering
+- ⚡ Cryptographic Engineering at KS
+- 🔭 Blog:
+  * [Introducing ABE Squared: A framework for comparing the efficiency of ABE schemes](https://research.kudelskisecurity.com/2022/09/19/introducing-abe-squared-a-framework-for-comparing-the-efficiency-of-abe-schemes/)
+  * [Implementing zk-focused hash schemes](https://research.kudelskisecurity.com/2022/07/07/implementing-zk-focused-hash-schemes/) 
+  * [Implementing a zk-focused authenticated-encryption scheme](https://research.kudelskisecurity.com/2022/05/02/implementing-a-zk-focused-authenticated-encryption-scheme/)
+  * [Practical attacks against attribute-based encryption](https://research.kudelskisecurity.com/2021/11/12/practical-attacks-against-attribute-based-encryption/)
 
 
 <!--
