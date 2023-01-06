@@ -9,7 +9,7 @@
    * [ABE Squared, with Marloes Venema and Greg Alpar](https://github.com/abecryptools/abe_squared)
    * [Cryptanalytic attacks against ABE schemes, with Marloes Venema](https://github.com/kudelskisecurity/abeattacks)
    * [Ghidra-EVM](https://github.com/adelapie/ghidra-evm)
-   * [SHA-3](https://github.com/adelapie/SHA-3-MIPS64) and [NewHope](https://github.com/adelapie/NEW-HOPE-MIPS64) for MIPS64
+   * [SHA-3](https://github.com/adelapie/SHA-3-MIPS64) and [NewHope](https://github.com/adelapie/NEW-HOPE-MIPS64) for MIPS64 and utilized in the [NewHope](https://newhopecrypto.org/) submission to the NIST PQC.
 
 
 <!--
